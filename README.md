@@ -7,6 +7,7 @@ I'm studying a physics engineering degree program at the Universidad Nacional de
 
 You're welcome to know a little bit more about my work on [LinkedIn](https://www.linkedin.com/in/isabel-puerta-alvarez-if/)  
 
+
 ## 🔧 Technologies & Tools  
 ### Cloud Services:  
 AWS  
@@ -14,7 +15,6 @@ AWS
 ### Programming:  
 Python, JavaScrip, CSS, HTML, C
 
-## 📂 My projects:
 <!--
 **ipuertaa/ipuertaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
