@@ -13,7 +13,7 @@ You're welcome to know a little bit more about my work on [LinkedIn](https://www
 AWS  
 
 ### Programming:  
-Python, JavaScrip, CSS, HTML, C
+Python, JavaScrip, CSS, HTML, C, Java
 
 <!--
 **ipuertaa/ipuertaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
