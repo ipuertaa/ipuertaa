@@ -1,7 +1,7 @@
 # Hi there! I'm Isabel 👋
 
 ## 🔧 Cloud Enthusiast
-I'm passionate about building cloud solutions, focusing on **AWS**, **Kubernetes**, **Serverless** and modern Infrastructure as Code tools like **Terraform**. 
+I'm passionate about building cloud solutions, focusing on **AWS** and modern Infrastructure as Code tools like **Terraform**. 
  
 
 
